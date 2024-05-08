@@ -53,7 +53,9 @@ If you prefer to run the code locally, follow these steps:
 
 4. Open the `DL4H_Team_38_Final_Project.ipynb` notebook.
 
-5. Run the notebook cells in order.
+5. Change folder paths accordingly.
+
+6. Run the notebook cells in order.
 
 Note that running the code locally requires a GPU for optimal performance. If you don't have access to a GPU, you can still run the code on a CPU, but training will take significantly longer.
 
@@ -61,4 +63,6 @@ Note that running the code locally requires a GPU for optimal performance. If yo
 1. C. Yin, R. Zhao, B. Qian, X. Lv and P. Zhang, "Domain Knowledge Guided Deep Learning with Electronic Health Records," 2019 IEEE International Conference on Data Mining (ICDM), Beijing, China, 2019, pp. 738-747, doi: 10.1109/ICDM.2019.00084. Repo: https://github.com/yinchangchang/DG-RNN/tree/master
 
 2. Repo: https://github.com/sunlabuiuc/PyHealth/blob/4febba6061253c4c178fa035d2afa67e206fc9a8/pyhealth/medcode/pretrained_embeddings/kg_emb/examples/train_kge_model.py
+
+3. CS598 Course Data Science Lab 
 
